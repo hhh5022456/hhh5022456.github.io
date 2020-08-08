@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hhh5022456.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-08T18:27:47.595Z</updated>
+    <title>Mmp</title>
+    <updated>2020-08-08T18:28:08.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hhh5022456.github.io"/>
     <link rel="self" href="https://hhh5022456.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Mmp</subtitle>
     <logo>https://hhh5022456.github.io/images/avatar.png</logo>
     <icon>https://hhh5022456.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Mmp</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hhh5022456.github.io/post/hello-gridea/</id>
